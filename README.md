@@ -6,7 +6,7 @@ Foldora is an Electron + React Folder organising application. It is planned to s
 
 - Browse folders and open files with a generic UI
 - Browse photo gallery folders in a gallery UI
-- Browse saved video by streaming them in-app or with your preferred player
-- Browes game folders sorted by genre or critic score
-- Support any type of folter structure or file types with custom plugins
+- Browse saved videos by streaming them in-app or with your preferred player
+- Browes game folders sorted by genre or critic score and support launching the games
+- Support any type of folder structure or file types with custom plugins
 - Browse your file in any device, mobile, web or desktop
